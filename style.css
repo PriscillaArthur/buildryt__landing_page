@@ -17,6 +17,15 @@ header > div a {
     text-decoration: none;
 }
 
+.features {
+    background-color: #242B33;
+    color: #ffffff;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
 /* Resets */
 .btn-primary {
     color: #484848;
